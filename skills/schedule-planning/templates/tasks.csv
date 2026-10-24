@@ -1,0 +1,4 @@
+id,name,duration,predecessors,owner,phase,not_before,notes
+M1,Project start,0,,,Initiation,,Milestone
+T1,Example task,5,M1,,Initiation,,
+M2,Project complete,0,T1,,Closure,,Milestone
